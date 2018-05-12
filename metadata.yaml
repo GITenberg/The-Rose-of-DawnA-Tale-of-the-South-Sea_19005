@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8398
     wikipedia: http://en.wikipedia.org/wiki/Helen_Hay_Whitney
 description: In verse.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19005#The-Rose-of-DawnA-Tale-of-the-South-Sea
 gutenberg_issued: '2006-08-07'
 gutenberg_type: Text
 identifiers:
